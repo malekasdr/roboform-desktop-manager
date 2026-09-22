@@ -1,0 +1,11 @@
+# This file is used to override language statistics
+node_modules/* linguist-vendored
+**/*.py linguist-detectable
+*.min.css linguist-generated
+*.min.js linguist-generated
+*.jpg binary
+public/**/*.html linguist-vendored
+go.sum linguist-generated
+*.yml linguist-detectable=false
+
+*.py linguist-detectable
